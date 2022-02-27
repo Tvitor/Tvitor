@@ -12,8 +12,8 @@
   <p>👾 Sistemas de Informação</p>
   <p>🏄 Certificação SAFE</p>
   
-  <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tvitor&show_icons=true&theme=dark"/></p>
-  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=dark"/><p>
+  <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tvitor&show_icons=true&theme=dark"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=dark"/></p>
+  
 
   
 
