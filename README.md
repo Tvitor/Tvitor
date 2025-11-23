@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Vitor Sales</h1>
-<h3 align="center">Software Engineer | HealthTech & Radiology Systems Specialist</h3>
+<h3 align="center">Full-Stack  Developer| HealthTech & Radiology Systems Specialist</h3>
 <p align="center">
   Rede D’Or São Luiz • +5 anos no core do RIS crítico (+70 hospitais)
 </p>
@@ -34,7 +34,7 @@
 </p>
 
 ### Atualmente – Rede D’Or São Luiz
-- Software Engineer no core do RIS (Radiology Information System)  
+- Full-Stack Developer no core do RIS (Radiology Information System)  
 - Workflow radiológico para +70 unidades da maior rede privada da América Latina  
 - Plantões críticos 24×7, salas de guerra e resolução de incidentes de alta severidade  
 - Destaque recorrente em ciclos PI (SAFe)  
