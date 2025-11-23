@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Vitor Sales</h1>
-<h3 align="center">Full-Stack  Developer| HealthTech & Radiology Systems Specialist</h3>
+<h3 align="center">Full-Stack  Developer | HealthTech & Radiology Systems Specialist</h3>
 <p align="center">
   Rede D’Or São Luiz • +5 anos no core do RIS crítico (+70 hospitais)
 </p>
